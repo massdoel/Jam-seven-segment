@@ -1310,24 +1310,3 @@ void S_menitOFF1()
 
 
 
-/*
-dwi darmono
-hp : +628129880770
-bb : 2BC40F12
-www.eldikon.com/projects.html
-http://wintrweb.ddns.net:8001
-* plc , scada , rtu , hmi , data logger , instrumentation *
-
-
-
-
-  
-Click here to Reply, Reply to all, or Forward
-12.37 GB (82%) of 15 GB used
-Manage
-Program Policies
-Powered by Google
-Last account activity: 33 minutes ago
-Details
-*/
-
